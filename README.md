@@ -77,3 +77,11 @@ Logs go to `logs/robot.log`. Crack-detection frames are saved to
 `images/`.
 
 Stop with `Ctrl+C` — GPIO is cleaned up automatically on exit.
+
+##Photos
+<img width="1600" height="1204" alt="WhatsApp Image 2026-07-17 at 6 30 36 PM" src="https://github.com/user-attachments/assets/d55b5a9e-a4f3-4df9-85e0-d941730d3227" />
+<img width="1600" height="1204" alt="492cd2ac-e834-49c2-8ff2-875cf5657f22" src="https://github.com/user-attachments/assets/cb15481d-3b9f-4ce1-b252-243712e23dc0" />
+<img width="1204" height="1600" alt="7fc91433-dbc7-4f1e-a6a4-65f4e17c7b94" src="https://github.com/user-attachments/assets/21a0b194-5970-4b40-8636-9c74c68c8b48" />
+
+
+
